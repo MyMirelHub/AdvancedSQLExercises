@@ -5,11 +5,11 @@ Exercises using the WorldWideWebImporters Database.
 ### Q1
 Using the database WideWorldImporters, write a SQL query which reports the consistency between orders and their attached invoices.
 The resultset should report for each (CustomerID, CustomerName)
-- a. the total number of orders: TotalNBOrders
-- b. the number of invoices converted from an order: TotalNBInvoices
-- c. the total value of orders: OrdersTotalValue
-- d. the total value of invoices: InvoicesTotalValue
-- f. the absolute value of the difference between c - d: AbsoluteValueDifference
+1. the total number of orders: TotalNBOrders
+2. the number of invoices converted from an order: TotalNBInvoices
+3. the total value of orders: OrdersTotalValue
+4. the total value of invoices: InvoicesTotalValue
+5. the absolute value of the difference between c - d: AbsoluteValueDifference
  
  ### Q2
 For the CustomerId = 1060 (CustomerName = 'Anand Mudaliyar')
