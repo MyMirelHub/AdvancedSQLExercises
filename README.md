@@ -1,7 +1,9 @@
 # AdvancedSQLExercises
 
-Exercises using the WorldWideWebImporters Database. 
+Exercises using the WorldWideWebImporters Database and SQLPlayground. 
+https://github.com/Microsoft/sql-server-samples/releases/download/wide-world-importers-v1.0/WideWorldImporters-Full.bak
 
+SQL 
 ### Q1
 Using the database WideWorldImporters, write a SQL query which reports the consistency between orders and their attached invoices.
 The resultset should report for each (CustomerID, CustomerName)
